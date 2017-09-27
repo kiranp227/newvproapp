@@ -1,0 +1,5 @@
+projectKey=vprofile
+serverUrl=http://172.31.30.45:9000
+dashboardUrl=http://172.31.30.45:9000/dashboard/index/vprofile
+ceTaskId=AV5mU4Q7pczzXVQOpjIL
+ceTaskUrl=http://172.31.30.45:9000/api/ce/task?id=AV5mU4Q7pczzXVQOpjIL
